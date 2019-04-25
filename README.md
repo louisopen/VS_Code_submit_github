@@ -23,8 +23,9 @@ git clone git@github.com:louisopen/VS_Code_submit_github.git
 ![Picture](update_github.jpg)
 
 #### 本地VS Code "commit" 
-Commit 訊息一定要填文字敘述
+Commit 訊息一定要填文字(簡單有意義的敘述)
 ![Picture](commit.jpg)
 
 #### 本地VS Code "push"
+每次在VS Code編輯完成都要按圖面上的1,2,3,4,5順序按下
 ![Picture](push_github.jpg)
