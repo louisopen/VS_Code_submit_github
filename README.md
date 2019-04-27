@@ -20,7 +20,7 @@ git clone git@github.com:louisopen/VS_Code_submit_github.git
 
 #### 本地開啟VS Code editor
 開啟資料夾(剛剛cloen的資料夾), 同時編輯Readme.md, Ctrl+S (存檔)
-![Picture](update_github.jpg)
+![Picture](edition_update.jpg)
 
 #### 本地VS Code "commit" 
 Commit 訊息一定要填文字(簡單有意義的敘述)
