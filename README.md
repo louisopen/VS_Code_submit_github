@@ -16,16 +16,16 @@ git clone https://github.com/louisopen/VS_Code_submit_github
 或是: 
 
 git clone git@github.com:louisopen/VS_Code_submit_github.git
-![Picture](clone_github.jpg)
+![Picture](/Resource/clone_github.jpg)
 
 #### 本地開啟VS Code editor
 開啟資料夾(剛剛cloen的資料夾), 同時編輯Readme.md, Ctrl+S (存檔)
-![Picture](edition_update.jpg)
+![Picture](/Resource/edition_update.jpg)
 
 #### 本地VS Code "commit" 
 Commit 訊息一定要填文字(簡單有意義的敘述)
-![Picture](commit.jpg)
+![Picture](/Resource/commit.jpg)
 
 #### 本地VS Code "push"
 每次在VS Code編輯完成都要按圖面上的1,2,3,4,5順序按下
-![Picture](push_github.jpg)
+![Picture](/Resource/push_github.jpg)
