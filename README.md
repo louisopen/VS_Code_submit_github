@@ -12,9 +12,7 @@
 直接進入到準備創建本地庫的Command line 馬上下指令"創建複製到本地": 
 
 git clone https://github.com/louisopen/VS_Code_submit_github
-
-或是: 
-
+* 或是: 
 git clone git@github.com:louisopen/VS_Code_submit_github.git
 ![Picture](/Resource/clone_github.jpg)
 
